@@ -1,6 +1,5 @@
-import RPi.GPIO as GPIO
+import RPi.GPIO as gpio, sys, time
 GPIO.setmode(GPIO.BOARD)
-import time
 
 # Pin# not GPIo
 Motor1A = 20
