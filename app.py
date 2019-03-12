@@ -8,7 +8,7 @@ import socketserver
 from threading import Condition
 from http import server
 
-motors.stop()
+# motors.stop()
 
 PAGE="""\
 <html>
