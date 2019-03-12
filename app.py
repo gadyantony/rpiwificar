@@ -2,7 +2,7 @@
 import io
 import picamera
 import logging
-import motors
+# import motors
 import RPi.GPIO as GPIO
 import socketserver
 from threading import Condition
